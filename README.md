@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🧠 LeetCode Info
-[![Leetcode Stats](https://leetcard.jacoblin.cool/PrinceJaiswal12?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/PrinceJaiswal12/)  
+[![Leetcode Stats](https://leetcard.jacoblin.cool/PrinceJaiswal12?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/PrinceJaiswal12/) 
+
+<img src="https://assets.leetcode.com/static_assets/marketing/2022-100.gif" width="80" />
 
 [![LeetCode Profile](https://img.shields.io/badge/PrinceJaiswal12-orange?style=flat-square&logo=leetcode)](https://leetcode.com/PrinceJaiswal12/)
 
