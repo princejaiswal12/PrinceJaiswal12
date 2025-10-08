@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **princejaiswal12/PrinceJaiswal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🧠 LeetCode Info
-[![Leetcode Stats](https://leetcard.jacoblin.cool/PrinceJaiswal12?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/PrinceJaiswal12/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/PrinceJaiswal12?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/PrinceJaiswal12/)  
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-PrinceJaiswal12-orange?style=flat-square&logo=leetcode)](https://leetcode.com/PrinceJaiswal12/)
 
