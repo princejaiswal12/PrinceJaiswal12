@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2022-100.gif" width="80" />
 
+https://leetcode-badge-showcase.vercel.app/api?username=princejaiswal12&theme=dark&border=border&animated=true
+
 [![LeetCode Profile](https://img.shields.io/badge/PrinceJaiswal12-orange?style=flat-square&logo=leetcode)](https://leetcode.com/PrinceJaiswal12/)
 
