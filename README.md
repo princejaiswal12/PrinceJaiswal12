@@ -1,26 +1,26 @@
-<!--
-**princejaiswal12/PrinceJaiswal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Info -->
+## 🧠 LeetCode Stats & Badges  
 
-Here are some ideas to get you started:
+<!-- Animated LeetCode GIF -->
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2022-100.gif" width="120" alt="LeetCode Animation"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🧠 LeetCode Info
-[![Leetcode Stats](https://leetcard.jacoblin.cool/PrinceJaiswal12?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/PrinceJaiswal12/) 
+<!-- Dynamic LeetCard -->
+<p align="center">
+  <a href="https://leetcode.com/PrinceJaiswal12/">
+    <img src="https://leetcard.jacoblin.cool/PrinceJaiswal12?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2022-100.gif" width="80" />
-## 🧠 LeetCode Info
-[![LeetCode Stats](https://leetcard.jacoblin.cool/princejaiswal12?theme=dark&ext=heatmap)](https://leetcode-badge-showcase.vercel.app/api?username=princejaiswal12&theme=dark&border=border&animated=true/)
+<!-- Moving Badge Showcase -->
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=PrinceJaiswal12&theme=dark&border=border&animated=true" alt="LeetCode Badge Showcase"/>
+</p>
 
-
-https://leetcode-badge-showcase.vercel.app/api?username=princejaiswal12&theme=dark&border=border&animated=true
-
-[![LeetCode Profile](https://img.shields.io/badge/PrinceJaiswal12-orange?style=flat-square&logo=leetcode)](https://leetcode.com/PrinceJaiswal12/)
-
+<!-- LeetCode Profile Link -->
+<p align="center">
+  <a href="https://leetcode.com/PrinceJaiswal12/">
+    <img src="https://img.shields.io/badge/PrinceJaiswal12-orange?style=flat-square&logo=leetcode" alt="LeetCode Profile Badge"/>
+  </a>
+</p>
