@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/PrinceJaiswal12?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/PrinceJaiswal12/) 
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2022-100.gif" width="80" />
+## 🧠 LeetCode Info
+[![LeetCode Stats](https://leetcard.jacoblin.cool/princejaiswal12?theme=dark&ext=heatmap)](https://leetcode.com/princejaiswal12/)
+
 
 https://leetcode-badge-showcase.vercel.app/api?username=princejaiswal12&theme=dark&border=border&animated=true
 
