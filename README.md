@@ -25,22 +25,6 @@ Here are some of the projects I’ve worked on. You can check out the repositori
 | Project | Description | Tech Stack | Repo Link |
 |---------|-------------|------------|-----------|
 | Wanderlust | A travel planning web app that helps users discover and organize trips. | Node.js, Express, MongoDB, EJS | [Repo](https://github.com/princejaiswal12/Wanderlust) |
-| Portfolio Website | My personal portfolio to showcase projects and skills. | HTML, CSS, JS | [Repo](https://github.com/princejaiswal12/Portfolio-Website) |
-| Chat App | Real-time chat application with multiple rooms and notifications. | React, Node.js, Socket.io | [Repo](https://github.com/princejaiswal12/Chat-App) |
 
----
 
-✨ **Tips to make it look better on GitHub:**  
-- Keep descriptions concise.  
-- Add badges for tech stack if you want it colorful.  
-- Center table with HTML if you want a fancier look:
-
-```html
-<div align="center">
-
-| Project | Description | Tech Stack | Repo Link |
-|---------|-------------|------------|-----------|
-| Wanderlust | A travel planning web app. | Node.js, MongoDB | [Repo](https://github.com/princejaiswal12/Wanderlust) |
-
-</div>
 
