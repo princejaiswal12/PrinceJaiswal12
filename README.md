@@ -18,9 +18,29 @@
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=PrinceJaiswal12&theme=dark&border=border&animated=true" alt="LeetCode Badge Showcase" width="550"/>
 </p>
 
-<!-- Profile Link Badge -->
-<p align="center">
-  <a href="https://leetcode.com/PrinceJaiswal12/">
-    <img src="https://img.shields.io/badge/PrinceJaiswal12-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile Badge"/>
-  </a>
-</p>
+# 🚀 My Projects
+
+Here are some of the projects I’ve worked on. You can check out the repositories for more details.  
+
+| Project | Description | Tech Stack | Repo Link |
+|---------|-------------|------------|-----------|
+| Wanderlust | A travel planning web app that helps users discover and organize trips. | Node.js, Express, MongoDB, EJS | [Repo](https://github.com/princejaiswal12/Wanderlust) |
+| Portfolio Website | My personal portfolio to showcase projects and skills. | HTML, CSS, JS | [Repo](https://github.com/princejaiswal12/Portfolio-Website) |
+| Chat App | Real-time chat application with multiple rooms and notifications. | React, Node.js, Socket.io | [Repo](https://github.com/princejaiswal12/Chat-App) |
+
+---
+
+✨ **Tips to make it look better on GitHub:**  
+- Keep descriptions concise.  
+- Add badges for tech stack if you want it colorful.  
+- Center table with HTML if you want a fancier look:
+
+```html
+<div align="center">
+
+| Project | Description | Tech Stack | Repo Link |
+|---------|-------------|------------|-----------|
+| Wanderlust | A travel planning web app. | Node.js, MongoDB | [Repo](https://github.com/princejaiswal12/Wanderlust) |
+
+</div>
+
