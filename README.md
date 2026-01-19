@@ -1,3 +1,11 @@
+# 👋 Hi, I'm Prince Jaiswal  
+
+🎓 Student | 💻 Developer | 🧠 DSA & LeetCode Enthusiast  
+
+I love building real-world projects, solving problems on LeetCode, and exploring backend + full-stack development.
+
+---
+
 <!-- 🌟 LeetCode Animated Section -->
 ## 🧠 LeetCode Stats & Badges  
 
@@ -18,13 +26,37 @@
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=PrinceJaiswal12&theme=dark&border=border&animated=true" alt="LeetCode Badge Showcase" width="550"/>
 </p>
 
-# 🚀 My Projects
+---
 
-Here are some of the projects I’ve worked on. You can check out the repositories for more details.  
+# 🚀 My Projects  
+
+Here are some of the projects I’ve worked on. You can check out the repositories for more details.
 
 | Project | Description | Tech Stack | Repo Link |
-|---------|-------------|------------|-----------|
-| Wanderlust | A travel planning web app that helps users discover and organize trips. | Node.js, Express, MongoDB, EJS | [Repo](https://github.com/princejaiswal12/Wanderlust) |
+|--------|-------------|------------|-----------|
+| **Wanderlust** | A travel planning web app that helps users discover and organize trips. | Node.js, Express, MongoDB, EJS | [Repo](https://github.com/princejaiswal12/Wanderlust) |
+| **AI Weapon Surveillance System** | AI-based surveillance system that detects weapons in real time to enhance security. | Python, OpenCV, Deep Learning, YOLO | [Repo](https://github.com/princejaiswal12/AI-Weapon-Surveillance-System---Project) |
+| **QuickPick** | A fast and lightweight application for quick item selection and management. | HTML, CSS, JavaScript | [Repo](https://github.com/princejaiswal12/QuickPick-Project) |
+| **ShopFast** | A full-stack e-commerce platform for browsing and purchasing products. | MERN Stack | [Repo](https://github.com/princejaiswal12/shopfast) |
+| **MilanoCortina** | A project inspired by the Milano–Cortina Winter Olympics with interactive UI features. | HTML, CSS, JavaScript | [Repo](https://github.com/princejaiswal12/MilanoCortina) |
 
+---
 
+## 🛠️ Tech Stack  
 
+- **Languages:** C++, JavaScript, Python  
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 GitHub: [princejaiswal12](https://github.com/princejaiswal12)  
+- 🧠 LeetCode: [PrinceJaiswal12](https://leetcode.com/PrinceJaiswal12/)  
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*  
