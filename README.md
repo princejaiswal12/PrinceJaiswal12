@@ -34,7 +34,6 @@ Here are some of the projects I’ve worked on. You can check out the repositori
 
 | Project | Description | Tech Stack | Repo Link |
 |--------|-------------|------------|-----------|
-| **Wanderlust** | A travel planning web app that helps users discover and organize trips. | Node.js, Express, MongoDB, EJS | [Repo](https://github.com/princejaiswal12/Wanderlust) |
 | **AI Weapon Surveillance System** | AI-based surveillance system that detects weapons in real time to enhance security. | Python, OpenCV, Deep Learning, YOLO | [Repo](https://github.com/princejaiswal12/AI-Weapon-Surveillance-System---Project) |
 | **QuickPick** | A fast and lightweight application for quick item selection and management. | HTML, CSS, JavaScript | [Repo](https://github.com/princejaiswal12/QuickPick-Project) |
 | **ShopFast** | A full-stack e-commerce platform for browsing and purchasing products. | MERN Stack | [Repo](https://github.com/princejaiswal12/shopfast) |
